@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: jdbc
+
+riotAccessToken: RGAPI-032fe469-be1c-41f8-8cab-fb4fa6241a41
